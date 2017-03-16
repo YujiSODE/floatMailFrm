@@ -7,8 +7,8 @@ https://github.com/YujiSODE/floatMailFrm
 >See LICENSE or http://opensource.org/licenses/mit-license.php
 ______
 
-##Script
+## Script
 * floatMailFrm.js
 
-##How to use
+## How to use
 * call "_floatMailFrm();".
